@@ -33,9 +33,9 @@ export default function Home() {
               <span className="text-white">From Knowledge to Agentic Actions</span>
             </p>
             
-            <p className="text-md md:text-xl text-gray-400 text-center">
+            {/* <p className="text-md md:text-xl text-gray-400 text-center">
               Coming soon
-            </p>
+            </p> */}
           </motion.div>
         </div>
       </section>
