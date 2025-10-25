@@ -30,12 +30,12 @@ export default function Home() {
             </h1>
             
             <p className="text-lg md:text-2xl mb-4 mx-auto leading-relaxed text-center">
-              <span className="text-white">From Knowledge to Agentic Actions</span>
+              <span className="text-white">AI for Peak Plant Performance</span>
             </p>
             
-            {/* <p className="text-md md:text-xl text-gray-400 text-center">
+            <p className="text-md md:text-xl text-gray-400 text-center">
               Coming soon
-            </p> */}
+            </p>
           </motion.div>
         </div>
       </section>

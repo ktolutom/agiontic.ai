@@ -1,6 +1,6 @@
 # agiontic.ai
 
-**From Knowledge to Agentic Actions**
+**AI for Peak Plant Performance**
 
 A landing page for agiontic.ai - transforming knowledge into intelligent, autonomous agentic actions.
 
